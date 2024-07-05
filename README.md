@@ -2,7 +2,7 @@
 <p align="left"> I am newbie in frontend web development, i am constantly learning frontend technologies and solve challenges with knowledge gained</p>
 
 <br>
--  📍I am based in **Abeokuta, Ogun State, Nigeria** 🇳🇬.
+-  📍 I am based in **Abeokuta, Ogun State, Nigeria** 🇳🇬.
 
 -  🧑‍💻 I am a newbie in **Frontend Development** 🧑‍💻.
 
