@@ -18,6 +18,13 @@
 
 <br>
 
-<h2> Tech Stack 🛠️:</H2>
+<h2> Tech Stack: 🛠️</H2>
 
-[![My skills](https://skillicons.dev/icons?i=html,css,js,git,github&theme=light&perline=15)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=html,css,js,git,github,markdown&theme=light&perline=15)](https://skillicons.dev)
+
+
+## Goals: 💫
+
+- Continuous Progress and Improvement in my skills.
+- Integrating knowledge gained into my projects.
+
