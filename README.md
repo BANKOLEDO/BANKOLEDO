@@ -2,7 +2,7 @@
 <p align="left"> I am newbie in frontend web development, i am constantly learning frontend technologies and solve challenges with knowledge gained</p>
 
 <br>
-<img align="right" alt="GIF" src="https://github.com/BANKOLEDO/BANKOLEDO/edit/main/"
+<img align="right" alt="GIF" src="https://github.com/BANKOLEDO/BANKOLEDO/blob/main/Tech%20Stack.gif" width="360px" />
 
 -  📍 I am based in **Abeokuta, Ogun State, Nigeria** 🇳🇬.
 
@@ -12,11 +12,11 @@
 
 -  👨‍💼 I am currently doing my internship at Hamzatronoics Technologies.
 
--  🔍Take a look at my projects on [**Frontend Mentor**](Https://www.frontendmentor.io/profile/BANKOLEDO)!.
+-  🔍 Take a look at my projects on [**Frontend Mentor**](Https://www.frontendmentor.io/profile/BANKOLEDO)!.
 
--  🫂 I am open to new **opportunities**
+-  🫂  I am open to new **opportunities**
 
--  🛜 How to reach me: <a href="https://www.linkedin.com/in/bankole-david-oladipupo-870b60214/">**Linkedin**</a> , <a href="https://x.com/bankydavid12">Twitter</a>
+-  🛜  How to reach me: <a href="https://www.linkedin.com/in/bankole-david-oladipupo-870b60214/">**Linkedin**</a> , <a href="https://x.com/bankydavid12">Twitter</a>
 
 <br>
 
