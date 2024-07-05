@@ -15,7 +15,7 @@
 
 -  🫂 I am open to new **opportunities**
 
--  🛜 How to reach me: **Linkedin:** 
+-  🛜 How to reach me: <a href="https://www.linkedin.com/in/bankole-david-oladipupo-870b60214/">**Linkedin**</a> , <a href="https://x.com/bankydavid12">Twitter</a>
 
 <br>
 
