@@ -2,7 +2,7 @@
 <p align="left"> I am newbie in frontend web development, i am constantly learning frontend technologies and solve challenges with knowledge gained</p>
 
 <br>
-<img align="right" alt="GIF" src="https://github.com/BANKOLEDO/BANKOLEDO/blob/main/Tech%20Stack.gif" width="360px" />
+<img align="right" alt="GIF" src="https://github.com/BANKOLEDO/BANKOLEDO/blob/main/Tech%20Stack.gif" width="360px" height="340px" />
 
 -  📍 I am based in **Abeokuta, Ogun State, Nigeria** 🇳🇬.
 
