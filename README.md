@@ -33,7 +33,7 @@
   </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=BANKOLEDOk&style=flat-square&color=blue" alt="" />
-
+</div>
 <h2> Tech Stack: 🛠️</H2>
 
 [![My skills](https://skillicons.dev/icons?i=html,css,js,git,github,markdown&theme=light&perline=15)](https://skillicons.dev)
