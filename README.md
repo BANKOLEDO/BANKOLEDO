@@ -30,3 +30,10 @@
 - Continuous Progress and Improvement in my skills.
 - Integrating knowledge gained into my projects.
 
+---
+
+### :fire: My Stats :
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BANKOLEDO)](https://github.com/anuraghazra/github-readme-stats)
+
+---
