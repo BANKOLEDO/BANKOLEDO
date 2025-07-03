@@ -10,8 +10,6 @@
 
 -  👨‍💻 I am currently studying **JavaScript** 👨‍💻.
 
--  🌱 I am currently doing my internship at Hamzatronoics Technologies.
-
 -  🔍 Take a look at my projects on [**Frontend Mentor**](Https://www.frontendmentor.io/profile/BANKOLEDO)!.
 
 - 📫  I am open to new **opportunities**
