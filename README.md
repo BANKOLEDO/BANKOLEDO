@@ -6,9 +6,9 @@
 
 -  📍 I am based in **Abeokuta, Ogun State, Nigeria** 🇳🇬.
 
--  👨‍💻 I am a newbie in **Frontend Development** 👨‍💻.
+-  👨‍💻 I am a **Frontend Developer** 👨‍💻.
 
--  👨‍💻 I am currently studying **JavaScript** 👨‍💻.
+-  👨‍💻 I am currently learning how to use modern technologies like: **React, Tailwind, Next, Supabase, Framer Motion and ShadCN ** 👨‍💻.
 
 -  🔍 Take a look at my projects on [**Frontend Mentor**](Https://www.frontendmentor.io/profile/BANKOLEDO)!.
 
