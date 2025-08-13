@@ -35,7 +35,7 @@
 </div>
 <h2> Tech Stack: 🛠️</H2>
 
-[![My skills](https://skillicons.dev/icons?i=html,css,js,git,github,markdown,react&theme=light&perline=15)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=html,css,js,git,github,markdown,react,next&theme=light&perline=15)](https://skillicons.dev)
 
 
 ## Goals: 💫
