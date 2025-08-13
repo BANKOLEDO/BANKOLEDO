@@ -8,7 +8,7 @@
 
 -  👨‍💻 I am a **Frontend Developer** 👨‍💻.
 
--  👨‍💻 I am currently learning how to use modern technologies like: **React, Tailwind, Next, Supabase, Framer Motion and ShadCN ** 👨‍💻.
+-  👨‍💻 I am currently learning how to use modern technologies like: **React, Tailwind, Next, Supabase, Framer Motion and ShadCN** 👨‍💻.
 
 -  🔍 Take a look at my projects on [**Frontend Mentor**](Https://www.frontendmentor.io/profile/BANKOLEDO)!.
 
