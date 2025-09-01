@@ -1,5 +1,5 @@
 <h2>Hello, there! Welcome to my GitHub Profile! My name is Bankole David 👋 </h2>
-<p align="left"> I am newbie in frontend web development, i am constantly learning frontend technologies and solve challenges with knowledge gained</p>
+<p align="left"> I am a Frontend Developer, i am constantly learning frontend technologies and solve challenges with knowledge gained</p>
 
 <br>
 <img align="right" alt="GIF" src="https://github.com/BANKOLEDO/BANKOLEDO/blob/main/Tech%20Stack.gif" width="300px" height="300px"  />
