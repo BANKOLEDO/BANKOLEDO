@@ -11,7 +11,7 @@
 - 📍 Based in **Abeokuta, Ogun State, Nigeria** 🇳🇬  
 - 👨‍💻 Passionate **Frontend Developer** focused on creating intuitive, scalable, and user-friendly products  
 - 📚 Currently exploring **React, Next.js, Tailwind, Supabase, Framer Motion, and ShadCN**  
-- 🔗 Check out my challenges & projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/BANKOLEDO)  
+- 🔗 Check out my projects in my portfolio [**My Portfolio**](https://devolabanks.vercel.app/)  
 - 🤝 Open to **collaborations & opportunities**  
 
 ---
