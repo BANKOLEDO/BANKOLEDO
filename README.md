@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bankole%20David&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Nigeria&descAlignY=55&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bankole%20David&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Lagos&descAlignY=55&animation=twinkling" width="100%"/>
 </div>
 
 <p align="center">
@@ -18,7 +18,7 @@
 class FullStackEngineer:
     def __init__(self):
         self.name = "Bankole David"
-        self.location = "Abeokuta, Nigeria"
+        self.location = "Lagos, Nigeria"
         self.role = "Full Stack Engineer"
         self.stack = {
             "frontend": ["React", "Next.js", "TypeScript", "Tailwind"],
