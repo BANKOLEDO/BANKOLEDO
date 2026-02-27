@@ -94,8 +94,23 @@ me.say_hello()
 
 ### 📊 The Numbers
 
-<div align="center"> <a href="https://github.com/BANKOLEDO"> <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=BANKOLEDO&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" /> </a> <a href="https://github.com/BANKOLEDO"> <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BANKOLEDO&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" /> </a> </div>
-<div align="center"> <a href="https://github.com/BANKOLEDO"> <img width=60% src="https://streak-stats.demolab.com?user=BANKOLEDO&theme=transparent&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideLabels=c9d1d9&dates=8b949e&background=0d1117" /> </a> </div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BANKOLEDO&theme=github_dark" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BANKOLEDO&theme=github_dark" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BANKOLEDO&theme=github_dark" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BANKOLEDO&theme=github_dark" width="31%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BANKOLEDO&theme=github_dark&height=300" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BANKOLEDO&theme=github_dark" alt="GitHub Streak" />
+</div>
 
 ---
 
