@@ -11,70 +11,206 @@
 
 ---
 
-# Hi, I'm Bankole David 👋
+# I Build Software From Idea to Deployment
 
-I'm a **Full-Stack Software Engineer based in Lagos, Nigeria**, building software across **web, mobile, backend systems, AI, automation, bots, and developer tooling**.
+I'm **Bankole David**, a Full-Stack Software Engineer based in Lagos, Nigeria.
 
-I enjoy taking an idea from **problem → architecture → implementation → deployment**.
+I build software across **web, mobile, AI, backend systems, automation, bots and developer tools**.
 
-That can mean building a web application, a mobile app, a REST API, a Telegram bot, an AI agent, a developer plugin, or the backend systems connecting everything together.
+I've built everything from full-stack applications and dashboards to **AI agents, Telegram bots, browser extensions, developer plugins and APIs**.
 
-I work mainly with **JavaScript/TypeScript and modern web technologies**, with experience across frontend development, backend engineering, databases, APIs, authentication, AI integrations, and deployment.
+I enjoy taking a rough idea and turning it into something people can actually use.
 
-My goal is simple: **build software that is useful, understandable, and actually works.**
+That means I can work across the parts of a product that usually get split between different people:
+
+**frontend → backend → database → integrations → AI → deployment**
 
 🌐 **Portfolio:** [devolabanks.xyz](https://devolabanks.xyz)
 
 ---
 
-## 🧑🏾‍💻 What I Build
+## What I Build
 
-### 🌐 Web Applications
+### Web Applications
 
-Modern, responsive web applications using React, Next.js, TypeScript and Tailwind CSS.
+Full-stack web products, dashboards, landing pages and internal tools.
 
-I care about clean interfaces, good user experience, accessibility, performance and maintainable frontend architecture.
+**React · Next.js · TypeScript · Tailwind CSS**
 
-### 📱 Mobile Applications
+### Mobile Applications
 
-Mobile experiences using modern JavaScript/TypeScript tooling, with a focus on practical interfaces and reliable application logic.
+Mobile products and experiences using modern JavaScript and TypeScript tooling.
 
-### ⚙️ Backend Systems & APIs
+**React Native · TypeScript**
 
-REST APIs, authentication, business logic, database integrations and backend services using Node.js, PostgreSQL and Supabase.
+### Backend & APIs
 
-### 🤖 AI-Powered Software
+REST APIs, authentication, business logic, database systems and third-party integrations.
 
-AI agents, LLM integrations, intelligent workflows and AI-powered products that connect models with real applications and useful data.
+**Node.js · Express · PostgreSQL · Supabase · Prisma**
 
-### 💬 Bots & Automation
+### AI Products
 
-Telegram bots, automated workflows, API integrations and tools that connect different services or remove repetitive work.
+AI-powered applications, agents, workflows and integrations that connect models to real products.
 
-### 🧩 Developer Tools
+### Bots & Automation
 
-Plugins, CLI tools, browser extensions and utilities designed to improve developer workflows.
+Telegram bots, automated workflows, API integrations and tools for removing repetitive tasks.
 
-### 🗄️ Databases & Infrastructure
+### Developer Tools
 
-Database-driven applications using PostgreSQL and Supabase, alongside Docker, deployment platforms, authentication systems and production infrastructure.
+Plugins, CLI tools, browser extensions and utilities that improve existing developer workflows.
+
+### Deployment & Infrastructure
+
+Containerised applications, production deployments, environment configuration and the systems needed to get software from a local machine to a real URL.
 
 ---
 
-## 🚀 Selected Projects
+## Selected Work
 
-A few things I've built:
+### ⚡ Veloxcore
 
-| Project          | What it does                                                                         | Technologies                             |
-| ---------------- | ------------------------------------------------------------------------------------ | ---------------------------------------- |
-| **Veloxcore**    | AI-powered behavioural analysis, review simulation and personalised recommendations. | React, TypeScript, Express, PostgreSQL   |
-| **Finance Flow** | Personal finance application for tracking expenses, budgets and financial activity.  | React, Supabase, Tailwind CSS            |
-| **tipfy**        | A platform for creating personal tip links and receiving support online.             | React, TypeScript, Prisma, PostgreSQL    |
-| **RevenaPath**   | AI-powered chargeback recovery platform for consumer brands.                         | React, Vite, Tailwind CSS, Framer Motion |
-| **NeuroSync AI** | Interactive AI company experience with 3D neural-network visualisations.             | React, Three.js, Framer Motion           |
-| **Oak Foods**    | Responsive food/product experience with interactive UI and animations.               | React, Tailwind CSS, Node.js             |
+An AI-powered product exploring behavioural analysis, review simulation and personalised recommendations.
 
-👉 **Explore more projects:** [devolabanks.xyz](https://devolabanks.xyz/#projects)
+**React · TypeScript · Express · PostgreSQL**
+
+---
+
+### 💰 Finance Flow
+
+A full-stack personal finance application for tracking transactions, budgets and financial activity.
+
+**React · Supabase · PostgreSQL · Tailwind CSS**
+
+---
+
+### 💸 tipfy
+
+A platform for creating personal tip links and receiving support online.
+
+**React · TypeScript · Prisma · PostgreSQL**
+
+---
+
+### 🧠 NeuroSync AI
+
+An interactive AI company experience built around 3D neural-network visualisations and animation.
+
+**React · Three.js · Framer Motion**
+
+---
+
+### 🔎 RevenaPath
+
+An AI-powered chargeback recovery product designed to help consumer brands recover lost revenue.
+
+**React · Vite · Tailwind CSS · Framer Motion**
+
+---
+
+### 🍔 Oak Foods
+
+A responsive product website with interactive UI and animations.
+
+**React · Tailwind CSS · Node.js**
+
+---
+
+### 🔌 Observer
+
+A developer tool for working with images inside the OpenCode CLI.
+
+It watches for pasted images, sends them to a vision model and returns a useful text description back to the CLI.
+
+**TypeScript · AI APIs · OpenCode**
+
+---
+
+### 🤖 Bots, Agents & Automation
+
+I've also built software outside the traditional application model:
+
+* Telegram bots
+* AI agents
+* Automated workflows
+* Browser extensions
+* CLI tooling
+* Developer plugins
+* API integrations
+
+**The project doesn't have to be a website for me to build it.**
+
+👉 **More projects:** [devolabanks.xyz](https://devolabanks.xyz/#projects)
+
+---
+
+## 📈 What That Looks Like in Practice
+
+```text
+Web              → React / Next.js
+Mobile            → React Native
+Backend           → Node.js / Express
+Database          → PostgreSQL / Supabase
+AI                → LLMs / AI Agents
+Automation        → APIs / Workflows / Bots
+Developer Tools   → Plugins / CLI / Extensions
+Infrastructure    → Docker / Deployment
+```
+
+I've worked across **8 different parts of the software stack**, depending on what the product actually needs.
+
+---
+
+## 🧩 Give Me the Problem, Not the Tech Stack
+
+If you're a founder or client, you don't need to tell me:
+
+> "I need a Next.js frontend with a PostgreSQL database and a REST API."
+
+You can tell me:
+
+> "I need customers to be able to do X."
+
+That's enough to start.
+
+I'll work out what needs to be built around it.
+
+### I can help with:
+
+* Turning an idea into an MVP
+* Building a product from an existing design
+* Adding features to an existing application
+* Building APIs and backend systems
+* Connecting third-party services
+* Adding AI to an existing product
+* Automating repetitive workflows
+* Building Telegram bots
+* Building internal dashboards and tools
+* Creating developer plugins and extensions
+* Taking an application from local development to deployment
+
+---
+
+## 🧠 How I Build
+
+```text
+01  Understand the problem
+        ↓
+02  Decide what actually needs to be built
+        ↓
+03  Build the first useful version
+        ↓
+04  Connect the moving parts
+        ↓
+05  Test
+        ↓
+06  Deploy
+        ↓
+07  Improve from real feedback
+```
+
+I prefer shipping something useful over spending weeks building architecture for a product nobody has used yet.
 
 ---
 
@@ -137,6 +273,10 @@ A few things I've built:
       <br>VS Code
     </td>
     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
@@ -144,53 +284,8 @@ A few things I've built:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
       <br>CSS3
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
   </tr>
 </table>
-
----
-
-## 🧠 Engineering Focus
-
-```javascript
-const engineeringFocus = {
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Responsive UI",
-    "Performance",
-    "Accessibility"
-  ],
-
-  backend: [
-    "Node.js",
-    "REST APIs",
-    "Authentication",
-    "PostgreSQL",
-    "Supabase"
-  ],
-
-  product: [
-    "Web applications",
-    "Mobile applications",
-    "AI-powered products",
-    "Automation",
-    "Developer tools"
-  ],
-
-  engineering: [
-    "API architecture",
-    "Database design",
-    "System design",
-    "Testing",
-    "Deployment"
-  ]
-};
-```
 
 ---
 
@@ -224,7 +319,7 @@ const currentFocus = {
     "Full-stack software products",
     "AI-powered applications",
     "Developer tools",
-    "Automation workflows"
+    "Automation"
   ],
 
   improving: [
@@ -232,72 +327,51 @@ const currentFocus = {
     "API design",
     "Database design",
     "System design",
-    "Performance optimisation"
+    "Performance"
   ],
 
   exploring: [
     "AI agents",
     "LLM-powered applications",
-    "Developer tooling",
-    "Open source"
+    "Open source",
+    "Developer tooling"
   ]
 };
 ```
 
 ---
 
-## 🧪 I Like Building Things That Cross Boundaries
+## 💼 Available for Work
 
-I'm particularly interested in projects where different parts of the stack have to work together.
+I'm currently open to working with **founders, startups, product teams, agencies and developers**.
 
-For example:
+### Good fit if you need someone to:
 
-```text
-Frontend
-   ↓
-Backend API
-   ↓
-Database
-   ↓
-AI / External Services
-   ↓
-Automation / Bot
-   ↓
-Deployment
-```
+* Build an MVP
+* Turn a design into a working product
+* Build the frontend and backend
+* Add AI capabilities to a product
+* Build an API or backend service
+* Automate a manual process
+* Build a Telegram bot
+* Build a plugin, extension or developer tool
+* Add features to an existing application
+* Take a product from development to deployment
 
-Whether that's a web application connected to an API, an AI agent connected to a database, a Telegram bot consuming a backend service, or a developer tool extending an existing workflow — I enjoy figuring out how the pieces fit together.
+If you already know what you want built, send it over.
 
----
-
-## 💼 Open to Opportunities
-
-I'm open to working with **startups, product teams, agencies, founders and developers** who need someone who can take ownership of a software problem and build across the stack.
-
-I'm interested in:
-
-* Full-stack software engineering
-* Frontend engineering
-* Backend and API development
-* Mobile application development
-* AI-powered product development
-* Developer tooling
-* Automation and integrations
-* Freelance and contract projects
-* Open-source collaboration
-
-If you're building something useful and need an engineer who can work across different parts of the product, **let's talk.**
+If you only know **the problem you're trying to solve**, that's fine too.
 
 <div align="center">
 
-### Let's Build Something Useful
+### Let's Build It.
 
 <a href="https://devolabanks.xyz">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20My%20Work-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:bankoledavid@gmail.com">
-  <img src="https://img.shields.io/badge/Work%20With%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
