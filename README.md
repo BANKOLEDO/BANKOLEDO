@@ -39,7 +39,7 @@ Full-stack web products, dashboards, landing pages and internal tools.
 
 ### Mobile Applications
 
-Mobile products and experiences using modern JavaScript and TypeScript tooling.
+Mobile products and experiences using modern JavaScript and TypeScript tooling or frameworks.
 
 **React Native · TypeScript**
 
