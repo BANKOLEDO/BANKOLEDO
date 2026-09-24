@@ -297,7 +297,7 @@ I'm actively taking on freelance and contract work.
 - Any existing design or mockups
 
 **What you get:**
-- Direct access (no middleman)
+- Direct access
 - Regular updates & transparency
 - Production code that works
 - Deployment included
