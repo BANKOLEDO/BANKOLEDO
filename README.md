@@ -255,6 +255,11 @@ Code is only valuable when it's live and working for real people.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BANKOLEDO&theme=github_dark" width="31%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BANKOLEDO&theme=github_dark" width="31%" />
 </div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BANKOLEDO&theme=dark" alt="GitHub Streak" width="70%" />
+</div>
 
 ---
 
