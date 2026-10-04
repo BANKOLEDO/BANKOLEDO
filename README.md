@@ -257,9 +257,7 @@ Code is only valuable when it's live and working for real people.
 </div>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BANKOLEDO&theme=dark" alt="GitHub Streak" width="70%" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BANKOLEDO)](https://git.io/streak-stats)
 
 ---
 
